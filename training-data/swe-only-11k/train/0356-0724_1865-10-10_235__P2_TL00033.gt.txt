@@ -1,0 +1,1 @@
+igenom tråden och dermed all telegraf-kommunikation

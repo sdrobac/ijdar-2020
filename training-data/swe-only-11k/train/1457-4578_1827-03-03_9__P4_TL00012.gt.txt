@@ -1,0 +1,1 @@
+1:sta sorten 16, 2:dra 12 och 3:dje 10 kop, 1 dito saltadt dito 1:sta sorten 11, 2:dra 10

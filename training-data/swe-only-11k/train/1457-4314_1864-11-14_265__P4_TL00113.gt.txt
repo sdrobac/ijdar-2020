@@ -1,0 +1,1 @@
+Den täckningsmetod på trekantslister, som företrädesvis rekommenderas och som
